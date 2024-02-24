@@ -21,9 +21,11 @@ Welcome to the Carnival Mask Creator App! This iOS application is designed to br
 
 ## Usage
 
-- Launch the app and start drawing your carnival mask using native drawing tools.
-- Experience the magic of AR as you place the created mask on your friends' faces.
-- Capture snapshots of the AR experience, saving them to your gallery.
+- Launch the app and start drawing your carnival mask using native drawing tools. ![Home View](./images/IMG_0475.PNG)
+
+- Experience the magic of AR as you place the created mask on your friends' faces. ![Drawing the mask](./images/IMG_0476.PNG)
+  
+- Capture snapshots of the AR experience, saving them to your gallery. ![AR view](./images/IMG_D1B057E86448-1.jpeg)
 
 ## Contributing
 
@@ -31,6 +33,6 @@ Contributions are welcome! If you have ideas for new features, bug fixes, or imp
 
 ## Acknowledgments
 
-A special thanks to [Apple](https://developer.apple.com/) for providing powerful frameworks like SwiftUI, UIKit, PencilKit, and ARKit.
+A special thanks to [Apple](https://developer.apple.com/) for providing powerful frameworks like SwiftUI, UIKit, PencilKit, and ARKit and for letting students show their creativity and capabilities every year.
 
 Happy drawing and mask creating! 🎭✨
