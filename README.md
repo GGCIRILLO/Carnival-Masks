@@ -25,9 +25,12 @@ Welcome to the Carnival Mask Creator App! This iOS application is designed to br
 - <img src="./images/IMG_0475.PNG" alt="Home View" width="300"/>
 
 
-- Experience the magic of AR as you place the created mask on your friends' faces. ![Drawing the mask](./images/IMG_0476.PNG)
+- Experience the magic of AR as you place the created mask on your friends' faces.
+- <img src="./images/IMG_0476.PNG" alt="Drawing View" width="300"/>
+
   
-- Capture snapshots of the AR experience, saving them to your gallery. ![AR view](./images/IMG_D1B057E86448-1.jpeg)
+- Capture snapshots of the AR experience, saving them to your gallery.
+- <img src="./images/IMG_D1B057E86448-1.jpeg" alt="AR View" width="300"/>
 
 ## Contributing
 
