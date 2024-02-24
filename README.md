@@ -21,7 +21,9 @@ Welcome to the Carnival Mask Creator App! This iOS application is designed to br
 
 ## Usage
 
-- Launch the app and start drawing your carnival mask using native drawing tools. ![Home View](./images/IMG_0475.PNG)
+- Launch the app and start drawing your carnival mask using native drawing tools:
+- <img src="./images/IMG_0475.PNG" alt="Home View" width="300"/>
+
 
 - Experience the magic of AR as you place the created mask on your friends' faces. ![Drawing the mask](./images/IMG_0476.PNG)
   
